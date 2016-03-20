@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasketBallCounter</string>
+    <string name="teamALabel">Team A</string>
+    <string name="teamBLabel">Team B</string>
+    <string name="resetBtnLabel">Reset All</string>
+    <string name="add1BtnLabel">+ 1</string>
+    <string name="add2BtnLabel">+ 2</string>
+    <string name="add3BtnLabel">+ 3</string>
+</resources>
